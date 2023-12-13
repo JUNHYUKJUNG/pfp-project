@@ -1,6 +1,6 @@
 # PFP Project
 
-Contract Address - 0x6bA74AdF3D0762A83CEC9ed9E8F7847D02fE7EF2
+Contract Address - 0x0bA858F107717Ce070e37339d2F09552173461b1
 
 리믹스로 스마트컨트랙트 만들고
 CRA - frontend 생성

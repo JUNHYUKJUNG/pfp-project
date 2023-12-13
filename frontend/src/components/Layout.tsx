@@ -31,7 +31,7 @@ const Layout: FC = () => {
     setMintNftConrtact(
       new web3.eth.Contract(
         mintNftAbi,
-        "0xd2cd079d86ac9b61bc957f42a6947cd34d5ccfaf"
+        "0x6bA74AdF3D0762A83CEC9ed9E8F7847D02fE7EF2"
       )
     );
   }, [web3]);
@@ -41,7 +41,7 @@ const Layout: FC = () => {
   }, [mintNftContract]);
 
   return (
-    <div className="bg-red-100 min-h-screen max-w-screen-md mx-auto">
+    <div className="bg-red-100 min-h-screen max-w-screen-md mx-auto flex flex-col">
       <Header account={account} setAccount={setAccount} />
       <Outlet context={{ account, web3, mintNftContract }} />
       {/* Outlet 태그는 라우터의 자식 컴포넌트를 렌더링하는데 사용. 이걸 사용하지 않으면 라우터의 자식 컴포넌트가 렌더링되지 않음. */}

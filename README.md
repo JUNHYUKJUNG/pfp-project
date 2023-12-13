@@ -1,3 +1,3 @@
 # PFP Project
 
-Contract Address - 0xd2cd079d86ac9b61bc957f42a6947cd34d5ccfaf
+Contract Address - 0x6bA74AdF3D0762A83CEC9ed9E8F7847D02fE7EF2

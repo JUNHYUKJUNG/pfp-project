@@ -1,6 +1,9 @@
 # PFP Project
 
-Contract Address - 0x0bA858F107717Ce070e37339d2F09552173461b1
+Mint NFT Contract Address - 0x0bA858F107717Ce070e37339d2F09552173461b1
+
+Sale NFT Contract Address -
+0xC8FA584579bF052e454Ef0195e17cb8FEC207051
 
 리믹스로 스마트컨트랙트 만들고
 CRA - frontend 생성
